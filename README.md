@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishavchanda&label=Profile%20views&color=0e75b6&style=flat" alt="rishavchanda" /> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="#" alt="YudaHasibuan23" /></a> </p>
+<p align="left"> <a href="https://twitter.com/andira112" target="blank"><img src="#" alt="YudaHasibuan23" /></a> </p>
 
 - 🔭 I’m currently working on **Vexa Web App**
 
